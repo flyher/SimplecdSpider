@@ -12,6 +12,7 @@ cxzw，
 ppurl，
 ed2k2000，
 月光博客，
-cnbeta
+cnbeta,
+txt99.cc
 等网站，因为代码实在没有时间整理，混乱的状态更改了几个版本。
 
