@@ -15,5 +15,5 @@ simplecdspider
 * 资源:ed2k2000(已停抓),simplecd(已停抓),xverycd,yyets(zimuzu)(已停抓)
 * 其它站点
 
-等网站，因为代码实在没有时间整理，混乱的状态更改了几个版本。
+等网站。
 
