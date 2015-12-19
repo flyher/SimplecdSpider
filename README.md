@@ -8,19 +8,12 @@ simplecdspider
 现在，已经将该程序迭代超过上百个版本,
 
 目前实例站点:
-× 文章类：cxzw,
-× 图书:ppurl(此站已关),txt99(已停抓)
-× 新闻:月光博客(已停抓),cnbeta(不再维护)，solidotnews
-× 技术:酷客(已停抓)
-× 资源:ed2k2000(已停抓),simplecd(已停抓),xverycd,yyets(zimuzu)(已停抓)
-× 其它站点
-
-######文章类：cxzw,
-######图书:ppurl,txt99
-######新闻:月光博客,cnbeta，solidotnews
-######技术:酷客
-######资源:ed2k2000(因该站限制，已无兴趣耗费更多精力),simplecd,xverycd,yyets(zimuzu)(已停止抓取)
-
+* 文章类：cxzw,
+* 图书:ppurl(此站已关),txt99(已停抓)
+* 新闻:月光博客(已停抓),cnbeta(不再维护)，solidotnews
+* 技术:酷客(已停抓)
+* 资源:ed2k2000(已停抓),simplecd(已停抓),xverycd,yyets(zimuzu)(已停抓)
+* 其它站点
 
 等网站，因为代码实在没有时间整理，混乱的状态更改了几个版本。
 
