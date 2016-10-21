@@ -12,8 +12,14 @@ simplecdspider
 * 图书:ppurl(此站已关),txt99(已停抓)
 * 新闻:月光博客(已停抓),cnbeta(不再维护)，solidotnews
 * 技术:酷客(已停抓)
-* 资源:ed2k2000(已停抓),simplecd(已停抓),xverycd,yyets(zimuzu)(已停抓)
+* 资源:ed2k2000(已停抓),simplecd(已停抓),xverycd(已停抓),yyets(zimuzu)(已停抓)
 * 其它站点
 
 等网站。
+
+2016-10-21 update:
+* 文章类:cxzw 新增profile
+* 新闻: solidotnews 预计 (网易，搜狐，澎湃)
+* 其它站点
+
 
